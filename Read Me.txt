@@ -1,0 +1,22 @@
+American University: CSC 435 Web Programming
+Homework Assignment 6:  GeekLuv, an online dating website. 
+
+Team members: Grace Kwon, Songxiang Yuan
+
+Live: http://gracekwon.x10.mx/GeekLuv/geekluv.php
+
+Github: https://github.com/grace-kwon/GeekLuv.git
+
+
+Contributions:
+
+Grace
+- signup.php & signup-submit.php, including form validation
+- upload the file to a web server & Github
+
+Songxiang
+- matches.php & matches-submit.php 
+
+Both
+- geeklub.php (front page)
+- debugging & error checking
